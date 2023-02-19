@@ -1,7 +1,7 @@
 <?php
 
 $name = "Taleb";
-var_dump($name);
+var_dump((bool) $name);
 
 $age = 24;
 var_dump($age);
