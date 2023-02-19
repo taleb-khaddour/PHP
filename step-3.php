@@ -7,5 +7,4 @@ $width=38;
 $area = $height * $width;
 echo " \n area is ".$area ."\n";
 
-
 ?>
